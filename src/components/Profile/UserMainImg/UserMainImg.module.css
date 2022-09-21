@@ -1,0 +1,8 @@
+.mainImgCont {
+  background-image: url("https://html5css.ru/css/img_lights.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}

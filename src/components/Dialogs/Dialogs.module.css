@@ -1,0 +1,41 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItem {
+  padding: 20px;
+}
+
+.dialogMessages {
+  padding: 20px;
+}
+
+.item {
+  color: burlywood;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.item:first-child {
+  margin-top: 0;
+}
+
+.active {
+  color: aliceblue;
+}
+
+.firstUserMes {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.secondUserMes {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.textarea {
+  width: 100%;
+}

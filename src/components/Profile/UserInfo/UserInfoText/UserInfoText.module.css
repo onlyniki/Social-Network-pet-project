@@ -1,0 +1,13 @@
+.userInfoList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.userInfoName {
+  margin-top: 0;
+}
+
+.userInfoSmllCont {
+  margin-left: 15px;
+}
